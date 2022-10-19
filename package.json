@@ -1,4 +1,7 @@
 { "name": "JATE", "version": "1.0.0", 
+"engines": {
+  "node": "14.20.1"
+},
 "description": "", 
 "scripts": { 
   "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"", 
