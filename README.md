@@ -32,7 +32,9 @@ THEN I should have proper build scripts for a webpack application
 
 # Author 
 Shanisse Wilson
-Github: 
+Github: https://github.com/shanissewilson
 
 # Credits 
-Several tutoring sessions and research
+https://www.jamiemaison.com/blog/creating-a-simple-text-editor-progressive-web-app-with-react
+https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide
+Several tutoring sessions
